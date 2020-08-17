@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/crwn-app/static/css/main.0f29d0dc.chunk.css",
-    "main.js": "/crwn-app/static/js/main.579f2729.chunk.js",
-    "main.js.map": "/crwn-app/static/js/main.579f2729.chunk.js.map",
+    "main.js": "/crwn-app/static/js/main.e6010706.chunk.js",
+    "main.js.map": "/crwn-app/static/js/main.e6010706.chunk.js.map",
     "runtime-main.js": "/crwn-app/static/js/runtime-main.1b65551e.js",
     "runtime-main.js.map": "/crwn-app/static/js/runtime-main.1b65551e.js.map",
-    "static/js/2.7e8df3ef.chunk.js": "/crwn-app/static/js/2.7e8df3ef.chunk.js",
-    "static/js/2.7e8df3ef.chunk.js.map": "/crwn-app/static/js/2.7e8df3ef.chunk.js.map",
+    "static/js/2.b2e4f8d0.chunk.js": "/crwn-app/static/js/2.b2e4f8d0.chunk.js",
+    "static/js/2.b2e4f8d0.chunk.js.map": "/crwn-app/static/js/2.b2e4f8d0.chunk.js.map",
     "index.html": "/crwn-app/index.html",
-    "precache-manifest.76f4fe98b5a289c537429e070398b693.js": "/crwn-app/precache-manifest.76f4fe98b5a289c537429e070398b693.js",
+    "precache-manifest.698673d08c1e90d901ad995771db8f0c.js": "/crwn-app/precache-manifest.698673d08c1e90d901ad995771db8f0c.js",
     "service-worker.js": "/crwn-app/service-worker.js",
     "static/css/main.0f29d0dc.chunk.css.map": "/crwn-app/static/css/main.0f29d0dc.chunk.css.map",
-    "static/js/2.7e8df3ef.chunk.js.LICENSE.txt": "/crwn-app/static/js/2.7e8df3ef.chunk.js.LICENSE.txt",
+    "static/js/2.b2e4f8d0.chunk.js.LICENSE.txt": "/crwn-app/static/js/2.b2e4f8d0.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/crwn-app/static/media/crown.ed28accb.svg",
     "static/media/shopping-bag.30f07071.svg": "/crwn-app/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1b65551e.js",
-    "static/js/2.7e8df3ef.chunk.js",
+    "static/js/2.b2e4f8d0.chunk.js",
     "static/css/main.0f29d0dc.chunk.css",
-    "static/js/main.579f2729.chunk.js"
+    "static/js/main.e6010706.chunk.js"
   ]
 }
